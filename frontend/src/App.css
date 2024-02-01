@@ -1,0 +1,22 @@
+.App{
+    min-height:100vh;
+    display:flex;
+}
+
+/* styles.css */
+
+.onlineStatus {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.online {
+    background-color: green;
+}
+
+.offline {
+    background-color: red;
+}
